@@ -1,0 +1,49 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+header,footer ul, .container{
+  width: 1170px;
+  margin: 0 auto;
+}
+header nav ul{
+  text-align: center;
+}
+header nav ul li{
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0 20px;
+}
+header nav ul li a{
+  text-decoration: none;
+  text-transform: uppercase;
+}
+aside,section{
+  display: inline-block;
+  vertical-align: top;
+}
+section{
+  width: 66%;
+  margin-bottom: 20px;
+}
+aside{
+  width: 33%;
+}
+
+section footer nav{
+  text-align: center;
+}
+section footer{
+  background-color: inherit;
+  padding : 0;
+
+}
+footer{
+  padding: 50px 0;
+  text-align: center;
+  background-color: #EEEEEE;
+}
+footer ul li{
+  display: inline-block;
+  margin-right: 20px;
+}

@@ -1,0 +1,25 @@
+
+
+
+.label-header {
+  border: 2px solid #3109e1;
+}
+
+
+.label-section {
+  border: 2px solid #f4970a;
+}
+
+
+
+.label-footer {
+  border: 2px solid #9e08cd;
+}
+
+.date{
+  width: 80px;
+}
+.titre{
+  color: red;
+}
+td{padding-bottom: 30px;}
